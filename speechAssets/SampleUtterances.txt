@@ -1,0 +1,6 @@
+IsTheWeekendIntent is it the weekend 
+IsTheWeekendIntent is it the weekend in {CITY}
+IsTheWeekendIntent is it the weekend in {ZONE}
+IsTheWeekendIntent tell me if it is the weekend
+IsTheWeekendIntent tell me if is it the weekend in {CITY}
+IsTheWeekendIntent tell me if is it the weekend in {ZONE}
